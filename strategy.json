@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "pattern": "BPPPP",
+    "bet": "B",
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "pattern": "PPPP",
+    "bet": "B",
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "pattern": "BBBB",
+    "bet": "P",
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "pattern": "PBBBB",
+    "bet": "P",
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "pattern": "EBBBB",
+    "bet": "P",
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "pattern": "EPPPP",
+    "bet": "B",
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "pattern": "BPPPPPPPP",
+    "bet": "B",
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "pattern": "PBBBBBBBB",
+    "bet": "P",
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "pattern": "EBBBBBBBB",
+    "bet": "P",
+    "active": true,
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "pattern": "EPPPPPPPP",
+    "bet": "B",
+    "active": true,
+    "notes": ""
+  }
+]
